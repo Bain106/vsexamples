@@ -1,4 +1,4 @@
-﻿namespace CalcLib;
+﻿namespace VSExamples.CalcLib;
 public static class Calc
 {
     public static Sum(int a, int b) {
